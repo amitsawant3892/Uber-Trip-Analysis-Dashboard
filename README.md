@@ -39,7 +39,7 @@ It helps stakeholders analyze **daily bookings, revenue, trip distances, vehicle
 - Vehicle performance analysis  
 
 **Screenshot:**  
-![Overview Dashboard](powerbi_dashboard_1.png)
+![Overview Dashboard](powerbi dashboard 1.png)
 
 ---
 
