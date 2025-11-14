@@ -39,7 +39,7 @@ It helps stakeholders analyze **daily bookings, revenue, trip distances, vehicle
 - Vehicle performance analysis  
 
 **Screenshot:**  
-![Overview Dashboard](powerbi dashboard 1.png)
+![Overview Dashboard](https://github.com/amitsawant3892/Uber-Trip-Analysis-Dashboard/blob/main/powerbi%20dashboard%201.png)
 
 ---
 
