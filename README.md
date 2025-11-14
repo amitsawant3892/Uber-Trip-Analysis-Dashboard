@@ -68,7 +68,7 @@ A complete detailed table containing all trip-level information:
 - Bookings  
 
 **Screenshot:**  
-![Detail Analysis Dashboard](powerbi_dashboard_3.png)
+![Detail Analysis Dashboard]powerbi dashboard 1.png
 
 ---
 
