@@ -50,7 +50,7 @@ It helps stakeholders analyze **daily bookings, revenue, trip distances, vehicle
 - Weekly trip behavior  
 
 **Screenshot:**  
-![Time Analysis Dashboard](powerbi_dashboard_2.png)
+![Time Analysis Dashboard](https://github.com/amitsawant3892/Uber-Trip-Analysis-Dashboard/blob/main/powerbi%20dashboard%202.png)
 
 ---
 
@@ -68,7 +68,7 @@ A complete detailed table containing all trip-level information:
 - Bookings  
 
 **Screenshot:**  
-![Detail Analysis Dashboard]powerbi dashboard 1.png
+![Detail Analysis Dashboard](https://github.com/amitsawant3892/Uber-Trip-Analysis-Dashboard/blob/main/powerbi%20dashboard%203.png)
 
 ---
 
